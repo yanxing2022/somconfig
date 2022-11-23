@@ -18,7 +18,7 @@
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string>nx3h4v9e</string>
+			<string>ztsj1234ztsj</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -32,13 +32,13 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.1.11</string>
+			<string>192.168.88.246</string>
 			<key>ProxyServerPort</key>
-			<integer>10809</integer>
+			<integer>7890</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>CMCC-UtAF-5G</string>
+			<string>MikroTik-12B99F-5G</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
